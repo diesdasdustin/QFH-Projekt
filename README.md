@@ -5,7 +5,8 @@ Dieses Repository dient primär der Dokumentation des Fortschritts. Dieses Repos
 
 ## Checkliste **Stand:** 23.12.2025
 
-- [x] Gerüst der QFH-Antenne bauen 
+- [x] Gerüst der QFH-Antenne bauen
+- [ ] File Structure updaten
 - [ ] obere Querstreben fertigstellen
 - [ ] Drähte biegen und einsetzen
 - [ ] Verdrahtung
