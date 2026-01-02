@@ -30,7 +30,7 @@ Dieses Repository dient primär der Dokumentation des Fortschritts. Dieses Repos
 
 ---
 
-## Fortschritt / Status
+## Fortschritt/Status
 
 ### Fertigstellung der Antenne (02.01.2026)
 <img src="docs/images/progress/QFH_Assembled2_02-01-2026.jpeg" alt="Fertiggestellte Antenne" width="400"/>
@@ -39,3 +39,13 @@ Dieses Repository dient primär der Dokumentation des Fortschritts. Dieses Repos
 
 ### Gerüst der Antenne gebaut (23.12.2025)
 <img src="docs/images/progress/QFH_frame_partial_23-12-2025.jpg" alt="Teiweise fertiggestelltes Antennengerüst" width="400"/>
+
+---
+
+## Projektplan
+- [x] bis 06.01.2026: Fertigstellung der QFH-Antenne, erste analoge Tests
+- [ ] bis 23.02.2026: Automatisierung der Aufzeichnung der Überflüge, der Dekodierung der Signale sowie Speicherung der Bilder
+- [ ] bis 13.04.2026: Bau einer Nachführung, automatisierte Aktivierung und Steuerung der Nachführung bei Überflügen
+- [ ] bis 10.05.2026: Automatisierung der Georeferenzierung, Abgleich der Daten mit Wetterbildern des Deutschen Wetterdienstes, Erzeugung eines eigenen Wetterberichts durch KI-Training mit den selbstgenerierten Wetterbildern
+- [ ] bis 20.05.2026: Abgabe der Projektdokumentation
+- [ ] Finale am 08.07.2026
