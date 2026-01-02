@@ -3,15 +3,39 @@ Ziel dieses Projektes ist es, eine funktionierende QFH (Quadrifilare Helixantenn
 
 Dieses Repository dient primär der Dokumentation des Fortschritts. Dieses Repository ist privat. 
 
-## Checkliste **Stand:** 23.12.2025
+## Ordnerstruktur
+Übersicht der Ordner im Repository:
+```
+/
+└───docs
+    ├───cad
+    │   ├───exports
+    │   └───models
+    └───images
+        ├───cad
+        ├───final
+        └───progress
+```
+
+---
+
+## Checkliste **Stand:** 02.01.2026
 
 - [x] Gerüst der QFH-Antenne bauen
-- [ ] File Structure updaten
-- [ ] obere Querstreben fertigstellen
-- [ ] Drähte biegen und einsetzen
-- [ ] Verdrahtung
+- [x] File Structure updaten
+- [x] obere Querstreben fertigstellen
+- [x] Drähte biegen und einsetzen
+- [x] Verdrahtung
 - [ ] Aufnahme von Satellitendaten
 
-## Zwischenstand: 
+---
+
+## Fortschritt / Status
+
+### Fertigstellung der Antenne (02.01.2026)
+<img src="docs/images/progress/QFH_Assembled2_02-01-2026.jpeg" alt="Fertiggestellte Antenne" width="400"/>
+
+---
+
 ### Gerüst der Antenne gebaut (23.12.2025)
 <img src="docs/images/progress/QFH_frame_partial_23-12-2025.jpg" alt="Teiweise fertiggestelltes Antennengerüst" width="400"/>
