@@ -1,4 +1,4 @@
-# QFH-Antenne - Vision-Ing 21
+# QFH-Antenne – Vision-Ing 21
 Ziel dieses Projektes ist es, eine funktionierende QFH (Quadrifilare Helixantenne) selbstständig zu bauen, um so Wetterdaten der Satelliten Meteor-M N2-3 und Meteor-M N2-4 automatisiert zu empfangen. 
 
 Dieses Repository dient primär der Dokumentation des Fortschritts. Dieses Repository ist privat. 
