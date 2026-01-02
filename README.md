@@ -37,7 +37,7 @@ Dieses Repository dient primär der Dokumentation des Fortschritts. Dieses Repos
 
 ---
 
-### Gerüst der Antenne gebaut (23.12.2025)
+### Bau des Antennengerüsts (23.12.2025)
 <img src="docs/images/progress/QFH_frame_partial_23-12-2025.jpg" alt="Teiweise fertiggestelltes Antennengerüst" width="400"/>
 
 ---
