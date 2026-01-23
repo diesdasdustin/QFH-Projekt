@@ -1,3 +1,5 @@
+################################# Laufzeit: ca. 10 Minuten!!! ##################################
+
 import numpy as np
 from PIL import Image
 import rasterio
@@ -20,7 +22,7 @@ import astropy.units as u
 # ============================================================
 
 PNG_PATH = "msu_mr_rgb_MCIR.png"
-TIME_PATH = "tim.txt"
+TIME_PATH = "tim.txt" #enthält die interpolierten Unix-Timestamps aus product.cbor
 OUTPUT_TIF = "aus_corrected.tif"
 
 TLE1 = "1 57166U 23091A   26004.31624314  .00000055  00000+0  42710-4 0  9993"
@@ -99,9 +101,6 @@ scan_angles = np.linspace(
      n_pixels
 )
 
-# ============================================================
-# PIXEL → GEO
-# ============================================================
 # ============================================================
 # FAST PIXEL → GEO (OPTIMIERT)
 # ============================================================
@@ -208,5 +207,4 @@ with rasterio.open(
     for i in range(3):
         dst.write(out[:, :, i], i + 1)
 
-
-print("Orthorektifiziert:", OUTPUT_TIF)
+print("Fertig, die georeferenzierte Datei heißt ", OUTPUT_TIF, ".")
