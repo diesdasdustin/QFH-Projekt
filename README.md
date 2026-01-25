@@ -3,6 +3,11 @@ Ziel dieses Projektes ist es, eine funktionierende QFH (Quadrifilare Helixantenn
 
 Dieses Repository dient primär der Dokumentation des Fortschritts. Dieses Repository ist privat. 
 
+## SatDump 
+- <a href="https://www.satdump.org/download/" target="_blank">SatDump Downloads<a/>
+- <a href="https://github.com/SatDump/SatDump#linux" target="_blank">SatDump Installation über den Quellcode<a/>
+
+
 ## Ordnerstruktur
 Übersicht der Ordner im Repository:
 ```
