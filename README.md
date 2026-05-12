@@ -3,6 +3,11 @@ Ziel dieses Projektes ist es, eine funktionierende QFH (Quadrifilare Helixantenn
 
 Dieses Repository dient primär der Dokumentation des Fortschritts.
 
+<p align="center">
+    <img src="docs/images/renderings/Rendering1.jpg" alt="1. Rendering der Antenne" width="400"/>
+    <img src="docs/images/renderings/Rendering2.jpg" alt="2. Rendering der Antenne" width="400"/>
+</p>
+
 ## SatDump 
 - <a href="https://www.satdump.org/download/" target="_blank">SatDump Downloads<a/>
 - <a href="https://github.com/SatDump/SatDump#linux" target="_blank">SatDump Installation über den Quellcode<a/>
@@ -17,8 +22,7 @@ Dieses Repository dient primär der Dokumentation des Fortschritts.
     │   ├───exports
     │   └───models
     └───images
-        ├───cad
-        ├───final
+        ├───renderings
         └───progress
 ```
 ---
@@ -27,26 +31,32 @@ Die Maßstäbe der Konstruktionsskizzen unter ``` /docs/cad/exports ``` beziehen
 
 ---
 
-## Checkliste **Stand:** 02.01.2026
+## Checkliste
 
 - [x] Gerüst der QFH-Antenne bauen
 - [x] File Structure updaten
 - [x] obere Querstreben fertigstellen
 - [x] Drähte biegen und einsetzen
 - [x] Verdrahtung
-- [ ] Aufnahme von Satellitendaten
+- [x] Aufnahme von Satellitendaten
+- [ ] Automatisierung der Aufnahme von Satellitendaten
+- [x] Abgabe der Projektdokumentation
 
 ---
 
 ## Fortschritt/Status
 
 ### Fertigstellung der Antenne (02.01.2026)
+<p align="center">
 <img src="docs/images/progress/QFH_Assembled2_02-01-2026.jpeg" alt="Fertiggestellte Antenne" width="400"/>
+</p>
 
 ---
 
 ### Bau des Antennengerüsts (23.12.2025)
+<p align="center">
 <img src="docs/images/progress/QFH_frame_partial_23-12-2025.jpg" alt="Teiweise fertiggestelltes Antennengerüst" width="400"/>
+</p>
 
 ---
 
@@ -55,5 +65,5 @@ Die Maßstäbe der Konstruktionsskizzen unter ``` /docs/cad/exports ``` beziehen
 - [ ] bis 23.02.2026: Automatisierung der Aufzeichnung der Überflüge, der Dekodierung der Signale sowie Speicherung der Bilder
 - [ ] bis 13.04.2026: Bau einer Nachführung, automatisierte Aktivierung und Steuerung der Nachführung bei Überflügen
 - [ ] bis 10.05.2026: Automatisierung der Georeferenzierung, Abgleich der Daten mit Wetterbildern des Deutschen Wetterdienstes, Erzeugung eines eigenen Wetterberichts durch KI-Training mit den selbstgenerierten Wetterbildern
-- [ ] bis 20.05.2026: Abgabe der Projektdokumentation
+- [x] bis 12.05.2026: Abgabe der Projektdokumentation
 - [ ] Finale am 08.07.2026
